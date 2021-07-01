@@ -8,7 +8,7 @@
 
 ## Contents
 
-- [0.1 Remix Ethereum IDE](#0.1) 
+- [0.1 Remix Ethereum IDE](#0.1)
 
 - [0.2 Comments](#0.2)
   - [0.2.0 Single-line Comments](#0.2.0)
