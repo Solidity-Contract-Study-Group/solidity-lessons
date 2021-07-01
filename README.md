@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/TH2FwUN.png)
+![header](assets\header.png)
 
 # Solidity Contract Study Group
 
