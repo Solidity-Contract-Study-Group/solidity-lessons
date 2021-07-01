@@ -1,4 +1,4 @@
-![header](Solidity-Contract-Study-Group/solidity-lessons/blob/main/assets/header.png)
+![header](https://i.imgur.com/gT8GfNx.png)
 
 # Solidity Contract Study Group
 
