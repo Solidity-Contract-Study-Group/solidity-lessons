@@ -8,15 +8,22 @@
 
 ## Contents
 
-[0.1 Remix Ethereum IDE](#remix) 
+- [0.1 Remix Ethereum IDE](#0.1) 
 
-## 0.1 Remix Ethereum IDE <a name='remix'></a>
+- [0.2 Comments](#0.2)
+  - [0.2.0 Single-line Comments](#0.2.0)
+  - [0.2.1 Multi-line Comments](#0.2.1)
+  - [0.2.2 Ethereum Natural Specification (NatSpec)](#0.2.2)
+
+
+
+## 0.1 Remix Ethereum IDE <a name='0.1'></a>
 
 The Remix Ethereum IDE can be accessed [here](https://remix.ethereum.org/). There are also downloadable version of the IDE for all operating systems available [here](https://github.com/ethereum/remix-desktop/releases).
 
 ---
 
-## 0.2 Comments
+## 0.2 Comments <a name='0.2'></a>
 
 Many times this is the first thing you will see in a contract. Comments are used to annotate code and are note interpreted by the compiler. They are meant to be read by the coder and any other people reading the code. **There have actually been scam tokens that mentioned that the token is a scam in the comments. So this might be a place to look.**
 
@@ -28,7 +35,7 @@ There are four types of comments in Solidity:
 
 ---
 
-### 0.2.1 Single-line Comments
+### 0.2.0 Single-line Comments <a name='0.2.0'></a>
 
 Single-line comments start with `//`.
 
@@ -47,7 +54,7 @@ Single-line comments are useful if your are testing code and you want to **comme
 
 ---
 
-### 0.2.2 Multi-line Comments
+### 0.2.1 Multi-line Comments <a name='0.2.1'></a>
 
 Multi-line comments start with `/*` and end with `*/` .
 
@@ -63,7 +70,7 @@ Multi-line comments are used for larger annotations that are not suitable for si
 
 ---
 
-### 0.2.3 Ethereum Natural Specification (NatSpec)
+### 0.2.2 Ethereum Natural Specification (NatSpec) <a name='0.2.2'></a>
 
 These comments are too elaborate for an overview. You can read more about them [here](https://docs.soliditylang.org/en/develop/natspec-format.html).  Documentation can be generated automatically with `///` for single-line documentation or `//* ...*  /. Here is an example below:
 
